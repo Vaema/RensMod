@@ -1,1 +1,4 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[h1]Ren's Mod[/h1]
+
+[h2]Information[/h2]
+This mod is dedicated to Ren, specifically because of his birthday.
