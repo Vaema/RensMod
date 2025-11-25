@@ -1,4 +1,9 @@
 ArmWarmers: {
 	DisplayName: Arm Warmers
-	Tooltip: 5% increased damage and 10% increased attack speed
+	Tooltip:
+		'''
+		5% increased damage and 10% increased attack speed
+		The perfect attire for your arms
+		However, they seem to belong to a specific individual
+		'''
 }
