@@ -1,0 +1,9 @@
+displayName = Ren's Mod
+author = Astra, Ren
+version = 0.1
+
+hideCode = false
+hideResources = false
+includeSource = true
+
+buildIgnore = .vs\*, .idea\*, *.sln, *.csproj, *.user, *.md, obj\*, bin\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes
