@@ -1,9 +1,10 @@
-displayName = Ren's Mod
-author = Astra, Ren
+displayName = Raymond's Mod
+author = Raymond, Astra
 version = 0.1
 
 hideCode = false
 hideResources = false
 includeSource = true
+includePDB = true
 
 buildIgnore = .vs\*, .idea\*, *.sln, *.csproj, *.user, *.md, obj\*, bin\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes
